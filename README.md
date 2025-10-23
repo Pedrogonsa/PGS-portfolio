@@ -7,8 +7,8 @@ This portfolio includes real-world production artifacts and documentation create
 ## 📁 Production Artifacts
 
 - [✅ Project Plan & WBS (Excel)](./project_plan.xlsx)
-- [🟡 Risk Register (coming soon)]
-- 🔜 Bug Triage Sheet
+- [✅ Risk Register (Excel)(./risk_register.xlsx)]
+- 🟡🔜 Bug Triage Sheet
 - 🔜 Change Log
 - 🔜 Backlog Sample
 
