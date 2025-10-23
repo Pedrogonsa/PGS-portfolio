@@ -1,0 +1,12 @@
+ID,Type,Title,Description,Acceptance Criteria,DoR Met (Y/N),DoD,Owner (Role),Estimate (pts),Status,Sprint,Linked Risk ID,Linked Issue ID,Linked Change ID
+E-1,Epic,Combat Vertical Slice,"Deliver playable slice with core combat loop","Slice can be played with stable FPS and responsive input",Y,"Playtest complete",Producer,,In Progress,Sprint 1,,,
+S-1,Story,Player Movement & Camera,"Third-person movement (walk, jump, dodge) and camera controls","Movement and camera feel smooth at 60 FPS",Y,"Code reviewed & QA passed",Engineer,5,In Progress,Sprint 1,R-4,CH-202
+T-1,Task,HUD Prototype,"Create temporary HUD for health and stamina","Displays correctly on 1080p/1440p",N,"Visual pass + QA",UI/UX,3,To Do,Sprint 1,,,,
+S-2,Story,Basic Enemy AI,"Implement simple AI with patrol and attack behaviors","Enemy reacts to player and can be defeated",Y,"QA test pass",Luis (Lead Programmer),5,To Do,Sprint 1,R-1,,CH-201
+T-2,Task,Audio Integration,"Integrate background music and basic SFX","All SFX trigger appropriately during gameplay",Y,"Sound QA feedback",Elena (Audio Designer),2,In Progress,Sprint 1,R-2,,CH-203
+S-3,Story,Internal Playtest (Vertical Slice),"Run internal QA on Level 1 (combat, puzzle, narrative)","Feedback collected and categorized",Y,"Feedback logged + issues created",QA Lead,3,Planned,Sprint 2,,R-4,CH-202
+T-3,Task,Performance Profiling (Console),"Profile game on target console for bottlenecks","FPS stable and memory usage under 80%",Y,"Performance log submitted",Luis (Lead Programmer),3,Planned,Sprint 2,,IS-5,CH-204
+S-4,Story,Lock Combat Scope,"Freeze any changes to combat systems post-slice","Combat tuning completed + freeze announced",Y,"Design updated + no new features added",Producer,1,Planned,Sprint 2,,R-1,
+E-2,Epic,Vertical Slice Polish,"Final tweaks post-feedback before milestone submission","All blocker issues from playtest resolved",Y,"Milestone delivery confirmed",Producer,,Planned,Sprint 2,,,
+S-5,Story,Enemy Visual Polish,"Improve pixel art of enemies for clarity and feedback","New enemy sprites reviewed by art director",Y,"Asset review complete",Ana (Art Director),2,Planned,Sprint 2,,,
+T-4,Task,Rebalance Puzzle Flow,"Adjust difficulty curve of Level 1 puzzles based on playtest feedback","Average completion time improved and less friction reported",Y,"Player feedback shows satisfaction",Carlos (Game Designer),3,Planned,Sprint 2,,R-4,IS-3
