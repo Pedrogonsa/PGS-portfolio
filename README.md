@@ -16,7 +16,7 @@ This portfolio includes real-world production artifacts and documentation create
 - 🛡️ **[Risk Register (Excel)](risk_register.xlsx)**  
   _This risk register outlines 5 key project risks with realistic ratings and mitigation strategies, following best practices in indie game production._
 
-- 🐞 **[Bug Triage Sheet (Excel)](bug_triage.xlsx)**  
+- 🐞 **[Bug Triage Sheet (Excel)](issue_log.xlsx)**  
   _Tracks reported issues with severity, ownership, and target fix dates. Helps maintain stability and quality during development._
 
 - 🔁 **[Change Log (Excel)](change_log.xlsx)**  
