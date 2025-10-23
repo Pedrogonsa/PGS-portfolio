@@ -22,7 +22,7 @@ This portfolio includes real-world production artifacts and documentation create
 - 🔁 **[Change Log (Excel)](change_log.xlsx)**  
   _Documents major changes in scope, features or assets. Useful for traceability and team communication._
 
-- 📦 **[Backlog Sample (CSV)](backlog.csv)**  
+- 📦 **[Backlog Sample (CSV)](backlog_sample.csv)**  
   _Simplified task backlog showing priority, owner, and status._
 
 ---
